@@ -139,25 +139,32 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ricckyfv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricckyfv&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ricckyfv" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Ricckyfv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ricckyfv&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricckyfv&langs_count=10&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ricckyfv's Top Languages" height="230px" />
+  </a>
+  
+  <br/>
+
+  <b>Note:</b> Top languages is a metric based on public code and doesn't necessarily reflect skill or preference.
+</p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
 
 ----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ricckyfv&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ricckyfv" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ricckyfv&theme=tokyonight&layout=compact&column=4&margin-w=15&margin-h=15" alt="Ricckyfv's GitHub Trophies" />
+  </a>
+</p>
+
 </details>
 	
 
